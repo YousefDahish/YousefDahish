@@ -49,7 +49,7 @@ My goal is to ensure software is **reliable, efficient, and user-friendly** by c
 - Documented results in Test Plans, Bug Reports, and Summary Reports.  
 
 ### Graduation Project(back-end) – Team Leader | Pets Project
- - **GitHub Repo:** [Pets](https://github.com/YousefDahish/DemoBlaze-E-Commerce-Website)
+ - **GitHub Repo:** [Pets](https://github.com/YousefDahish/graduation-project)
 - Designed and implemented **backend APIs** using **Node.js & SQL**.  
 - Built core backend logic for user data and system features.  
 - Created and executed **manual test cases** to ensure functionality.  
